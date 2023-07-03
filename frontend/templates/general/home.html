@@ -1,0 +1,45 @@
+{% extends 'general/base.html'%}
+
+{% block title %}Steam Sales{% endblock %}
+
+
+{% block content %}    
+    <div class="mt-6 px-6 py-12 bg-gray-100 rounded-xl">
+        <h2 class="mb-12 text-2xl text-center">On Sale!</h2>
+
+        <div class="grid grid-cols-3 gap-3">
+            {% for game in games %}
+                <div>
+                    <a href="{% url 'content:game_page' game.id %}">
+                        <div>
+                            <img src="{{ game.image.url }}" class="rounded-t-xl">
+                        </div>
+
+                        <div class="p-6 bg-white rounded-b-xl">
+                            <h2 class="text-2xl">{{ game.name }}</h2>
+                            <p class="text-gray-500">Price: {{ game.price }}</p>
+                        </div>
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+
+    </div>
+
+    <div class="mt-6 px-6 py-12 bg-gray-100 rounded-xl">
+        <h2 class="mb-12 text-2xl text-center">Genres</h2>
+
+        <div class="grid grid-cols-3 gap-3">
+            {% for genre in genres %}
+                <div>
+                    <a href="#">
+                        <div class="p-6 bg-white rounded-b-xl">
+                            <h2 class="text-2xl">{{ genre.name }}</h2>
+                            <p class="text-gray-500">{{ genre.items.count }} games</p>
+                        </div>
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+{% endblock %}

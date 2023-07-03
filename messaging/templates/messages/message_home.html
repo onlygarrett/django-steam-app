@@ -1,0 +1,28 @@
+{% extends 'general/base.html' %}
+
+{% block title %}Message Home{% endblock %}
+
+{% block content %}
+<h1 class="mb-6 text-3xl">Message Home</h1>
+
+<div class="space-y-6">
+    {% for message_group in message_groups %}
+        <a href="{% url 'messaging:message' message_group.id %}">
+            <div class="p-6 flex bg-gray-100 rounded-xl">
+                <div class="pr-6">
+                    <img src="{{ message_group.item.image.url }}" class="w-20 rounded-xl">
+                </div>
+
+                <div>
+                    {% for member in message_group.members.all %}
+                        {% if member != request.user %}
+                            <p class="mb-4"><strong>{{ member.username }}</strong> | {{ message_group.last_modified }}</p>
+                            <p>{{ message_group.game.name }}</p>
+                        {% endif %}
+                    {% endfor %}
+                </div>
+            </div>
+        </a>
+    {% endfor %}
+</div>
+{% endblock %}
