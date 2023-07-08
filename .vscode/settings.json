@@ -8,5 +8,12 @@
         }
     ],
     "sqltools.useNodeRuntime": true,
-    "python.terminal.activateEnvironment": false
+    "python.terminal.activateEnvironment": false,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.formatting.provider": "none",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false,
+    "python.analysis.typeCheckingMode": "basic"
 }

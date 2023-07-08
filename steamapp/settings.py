@@ -1,4 +1,5 @@
 from pathlib import Path
+from string import Template
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -19,7 +20,16 @@ LOGIN_URL = '/login/'
 LOGIN_REDIRECT_URL = '/'
 LOGOUT_REDIRECT_URL = '/'
 
+STEAM_TAG_SEARCH_API_URL = 'https://store.steampowered.com/saleaction/ajaxgetsaledynamicappquery?' \
+        'cc=US&l=english&flavor=contenthub_all&start=0&count=10' \
+        '&return_capsules=true&bForceUseSaleTag=true&strContentHubType=tags&bRequestFacetCounts=true&nContentHubTagID='
 
+STEAM_APP_API_URL = Template('https://store.steampowered.com/api/appdetails?appids=$app_id&filters='\
+    'short_description,price_overview,header_image,basic,steam_appid,is_free,release_date,developers')
+
+REQUIRED_DATA = ['tag', 'steam_appid', 'name', 'short_description',
+                 'header_image', 'price_overview',
+                 'release_date', 'developer','on_sale']
 # Application definition
 
 INSTALLED_APPS = [
