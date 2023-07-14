@@ -10,16 +10,12 @@
         <a href="{% url 'messaging:message' message_group.id %}">
             <div class="p-6 flex bg-gray-100 rounded-xl">
                 <div class="pr-6">
-                    <img src="{{ message_group.item.image.url }}" class="w-20 rounded-xl">
+                    <img src="{{ message_group.game.image.url }}" class="w-20 rounded-xl">
                 </div>
 
                 <div>
-                    {% for member in message_group.members.all %}
-                        {% if member != request.user %}
-                            <p class="mb-4"><strong>{{ member.username }}</strong> | {{ message_group.last_modified }}</p>
-                            <p>{{ message_group.game.name }}</p>
-                        {% endif %}
-                    {% endfor %}
+                <p class="mb-4"><strong>{{ member.username }}</strong> | {{ message_group.last_modified }}</p>
+                <p>{{ message_group.game.name }}</p>
                 </div>
             </div>
         </a>

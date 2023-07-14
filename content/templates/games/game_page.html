@@ -11,7 +11,7 @@
     <div class="col-span-2 p-6 bg-gray-100 rounded-xl">
         <h1 class="mb-6 text-3xl">{{ game.name }}</h1>
         <p class="text-gray-500"><strong>Price: </strong>{{ game.price }}</p>
-        <p class="text-gray-500"><strong>Developer: </strong>{{ game.developer.username }}</p>
+        <p class="text-gray-500"><strong>Developers: </strong>{{ game.developers.name }}</p>
     
         {% if game.description %}
             <p class="text-gray-700">
@@ -20,15 +20,15 @@
             </p>
         {% endif %}
 
-        {% if request.user == game.developer %}
-            <div class="mt-6 p-6 bg-white rounded-xl">
-                <p>This is your game!</p>
+        <a href="{% url 'messaging:create' game.id %}" class="inline-block mt-6 px-6 py-3 text-lg font-semibold bg-teal-500 text-white rounded-xl hover:bg-teal-700">Join Coversation</a>
 
-                <a href="{% url 'content:edit_game' game.id %}" class="inline-block mt-6 px-6 py-3 text-lg font-semibold bg-red-500 text-white rounded-xl">Edit Game Info</a>
-                <a href="{% url 'content:remove_game' game.id %}" class="inline-block mt-6 px-6 py-3 text-lg font-semibold bg-red-500 text-white rounded-xl">Delete</a>
+        {% if on_wishlist %}
+            <div class="mt-6 p-6 bg-white rounded-xl">
+                <p>Already on wishlist!</p>
+                <a href="{% url 'wishlist:remove_from_wishlist' game.id %}" class="inline-block mt-6 px-6 py-3 text-lg font-semibold bg-red-500 text-white rounded-xl">Remove</a>
             </div>
         {% else %}  
-            <a href="{% url 'messaging:create' game.id %}" class="inline-block mt-6 px-6 py-3 text-lg font-semibold bg-teal-500 text-white rounded-xl hover:bg-teal-700">Contact seller</a>
+            <a href="{% url 'wishlist:add_to_wishlist' game.id %}" class="inline-block mt-6 px-6 py-3 text-lg font-semibold bg-teal-500 text-white rounded-xl hover:bg-teal-700">Add to Wishlist</a>
         {% endif %}
     </div>
 </div>
@@ -41,7 +41,7 @@
             <div>
                 <a href="{% url 'content:game_page' game.id %}">
                     <div>
-                        <img src="{{ game.image.url }}" class="rounded-t-xl">
+                        <img src="{{ game.image.url }}" class="rounded-t-xl" style="width: -moz-available;">
                     </div>
 
                     <div class="p-6 bg-white rounded-b-xl">

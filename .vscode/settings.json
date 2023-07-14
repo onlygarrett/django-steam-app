@@ -15,5 +15,6 @@
     "python.formatting.provider": "none",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": false,
-    "python.analysis.typeCheckingMode": "basic"
+    "python.analysis.typeCheckingMode": "off",
+    "docwriter.style": "Google"
 }

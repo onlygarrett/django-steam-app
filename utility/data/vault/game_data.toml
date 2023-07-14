@@ -1,0 +1,681 @@
+[1868140]
+steam_appid = 1868140
+name = "DAVE THE DIVER"
+short_description = "DAVE THE DIVER is a casual, singleplayer adventure RPG featuring deep-sea exploration and fishing during the day and sushi restaurant management at night. Join Dave and his quirky friends as they seek to uncover the secrets of the mysterious Blue Hole."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1868140/header.jpg?t=1689185556"
+price = 1999
+discount = 0
+release_date = "Jun 28, 2023"
+developers = ["MINTROCKET"]
+tag = "Indie"
+
+[108600]
+steam_appid = 108600
+name = "Project Zomboid"
+short_description = "Project Zomboid is the ultimate in zombie survival. Alone or in MP: you loot, build, craft, fight, farm and fish in a struggle to survive. A hardcore RPG skillset, a vast map, massively customisable sandbox and a cute tutorial raccoon await the unwary. So how will you die? All it takes is a bite.."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/108600/header.jpg?t=1679306018"
+price = 1999
+discount = 0
+release_date = "Nov 8, 2013"
+developers = ["The Indie Stone"]
+tag = "Indie"
+
+[632360]
+steam_appid = 632360
+name = "Risk of Rain 2"
+short_description = "Escape a chaotic alien planet by fighting through hordes of frenzied monsters – with your friends, or on your own. Combine loot in surprising ways and master each character until you become the havoc you feared upon your first crash landing."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/632360/header.jpg?t=1660063598"
+price = 2499
+discount = 0
+release_date = "Aug 11, 2020"
+developers = ["Hopoo Games"]
+tag = "Indie"
+
+[413150]
+steam_appid = 413150
+name = "Stardew Valley"
+short_description = "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?"
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/413150/header.jpg?t=1666917466"
+price = 1499
+discount = 0
+release_date = "Feb 26, 2016"
+developers = ["ConcernedApe"]
+tag = "Indie"
+
+[858710]
+steam_appid = 858710
+name = "Gravity Circuit"
+short_description = "Gravity Circuit is a flashy action packed 2D platformer in the spirit of console classics. Follow Kai, a lone operative war hero who harnesses the mysterious powers of the Gravity Circuit, on an adventure in a futuristic world inhabited by sentient robots."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/858710/header.jpg?t=1689272022"
+price = 1529
+discount = 10
+release_date = "Jul 13, 2023"
+developers = ["Domesticated Ant Games"]
+tag = "Indie"
+
+[2390150]
+steam_appid = 2390150
+name = "BattleBit Remastered - Supporter Pack 1"
+short_description = "Get Your Style On with Support Pack 1: Show Some Love! This expansion doesn't just bring you a ton of jaw-dropping cosmetic upgrades to rock your look, but it's also a sweet way to show some love and support for the amazing devs behind the scenes."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/2390150/header.jpg?t=1687026089"
+price = 1999
+discount = 0
+release_date = "Jun 15, 2023"
+developers = ["SgtOkiDoki", "Vilaskis", "TheLiquidHorse"]
+tag = "Indie"
+
+[1145360]
+steam_appid = 1145360
+name = "Hades"
+short_description = "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1145360/header.jpg?t=1680293801"
+price = 2499
+discount = 0
+release_date = "Sep 17, 2020"
+developers = ["Supergiant Games"]
+tag = "Indie"
+
+[1332010]
+steam_appid = 1332010
+name = "Stray"
+short_description = "Lost, alone and separated from family, a stray cat must untangle an ancient mystery to escape a long-forgotten cybercity and find their way home."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1332010/header.jpg?t=1688314132"
+price = 2999
+discount = 0
+release_date = "Jul 19, 2022"
+developers = ["BlueTwelve Studio"]
+tag = "Indie"
+
+[2231450]
+steam_appid = 2231450
+name = "Pizza Tower"
+short_description = "Pizza Tower is a fast paced 2D platformer inspired by the Wario Land series, with an emphasis on movement, exploration and score attack. Featuring highly stylized pixel art inspired by the cartoons from the '90s, and a highly energetic soundtrack."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/2231450/header.jpg?t=1674756021"
+price = 1999
+discount = 0
+release_date = "Jan 26, 2023"
+developers = ["Tour De Pizza"]
+tag = "Indie"
+
+[1217060]
+steam_appid = 1217060
+name = "Gunfire Reborn"
+short_description = "Gunfire Reborn is a level-based adventure game featuring FPS, Roguelite and RPG. Players can control heroes with various abilities to experience diverse Build gameplay, use various weapons to explore procedurally-generated levels. You can play the game alone, or join 4-player coop."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1217060/header.jpg?t=1686623757"
+price = 1999
+discount = 0
+release_date = "Nov 17, 2021"
+developers = ["Duoyi Games"]
+tag = "Indie"
+
+[1313140]
+steam_appid = 1313140
+name = "Cult of the Lamb"
+short_description = "Start your own cult in a land of false prophets, venturing out into diverse and mysterious regions to build a loyal community of woodland Followers and spread your Word to become the one true cult."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1313140/header.jpg?t=1686863929"
+price = 2499
+discount = 0
+release_date = "Aug 11, 2022"
+developers = ["Massive Monster"]
+tag = "Roguelite"
+
+[588650]
+steam_appid = 588650
+name = "Dead Cells"
+short_description = "Dead Cells is a rogue-lite, metroidvania inspired, action-platformer. You'll explore a sprawling, ever-changing castle... assuming you’re able to fight your way past its keepers in 2D souls-lite combat. No checkpoints. Kill, die, learn, repeat. Regular free content updates!"
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/588650/header.jpg?t=1678188017"
+price = 2499
+discount = 0
+release_date = "Aug 6, 2018"
+developers = ["Motion Twin"]
+tag = "Roguelite"
+
+[2163330]
+steam_appid = 2163330
+name = "Yet Another Zombie Survivors"
+short_description = "The Horde is coming but you're ready to fight it! Assemble your team and decide upon their enhancements to find the most efficient synergies against thousands of the undead. Survive. Then evolve. Then break all the limits in this deceivingly simple but addictive reverse bullet hell."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/2163330/header.jpg?t=1689267965"
+price = 799
+discount = 20
+release_date = "Jul 13, 2023"
+developers = ["Awesome Games Studio"]
+tag = "Roguelite"
+
+[1092790]
+steam_appid = 1092790
+name = "Inscryption"
+short_description = "Inscryption is an inky black card-based odyssey that blends the deckbuilding roguelike, escape-room style puzzles, and psychological horror into a blood-laced smoothie. Darker still are the secrets inscrybed upon the cards..."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1092790/header.jpg?t=1660265312"
+price = 1999
+discount = 0
+release_date = "Oct 19, 2021"
+developers = ["Daniel Mullins Games"]
+tag = "Roguelite"
+
+[1599600]
+steam_appid = 1599600
+name = "PlateUp!"
+short_description = "Cook and serve your dishes, design and decorate your restaurants, and expand your culinary kingdom with new unlocks, abilities and dishes in procedurally-generated locations. Classic cooking action with permanent roguelite progression. Hire your friends - or do it all yourself!"
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1599600/header.jpg?t=1688995236"
+price = 1799
+discount = 0
+release_date = "Aug 4, 2022"
+developers = ["It's happening"]
+tag = "Roguelite"
+
+[1794680]
+steam_appid = 1794680
+name = "Vampire Survivors"
+short_description = "Mow down thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1794680/header.jpg?t=1688057293"
+price = 499
+discount = 0
+release_date = "Oct 20, 2022"
+developers = ["poncle"]
+tag = "Roguelite"
+
+[774801]
+steam_appid = 774801
+name = "Crab Champions"
+short_description = "Claw your way across exotic islands combining fluid movement with fast paced combat to become a Crab Champion in this third person shooter with roguelike elements."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/774801/header.jpg?t=1688770349"
+price = 999
+discount = 0
+release_date = "Apr 1, 2023"
+developers = ["Noisestorm Limited"]
+tag = "Roguelite"
+
+[730]
+steam_appid = 730
+name = "Counter-Strike: Global Offensive"
+short_description = "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago. CS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.)."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg?t=1683566799"
+price = 999
+discount = 0
+release_date = "Aug 21, 2012"
+developers = ["Valve", "Hidden Path Entertainment"]
+tag = "Shooter"
+
+[440]
+steam_appid = 440
+name = "Team Fortress 2"
+short_description = "Nine distinct classes provide a broad range of tactical abilities and personalities. Constantly updated with new game modes, maps, equipment and, most importantly, hats!"
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/440/header.jpg?t=1682961494"
+price = 999
+discount = 0
+release_date = "Oct 10, 2007"
+developers = ["Valve"]
+tag = "Shooter"
+
+[671860]
+steam_appid = 671860
+name = "BattleBit Remastered"
+short_description = "BattleBit Remastered is a low-poly, massive multiplayer FPS, supporting 254 players per server. Battle on a near-fully destructible map with various vehicles!"
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/671860/header.jpg?t=1686877598"
+price = 1499
+discount = 0
+release_date = "Jun 15, 2023"
+developers = ["SgtOkiDoki", "Vilaskis", "TheLiquidHorse"]
+tag = "Shooter"
+
+[252490]
+steam_appid = 252490
+name = "Rust"
+short_description = "The only aim in Rust is to survive. Everything wants you to die - the island’s wildlife and other inhabitants, the environment, other survivors. Do whatever it takes to last another night."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/252490/header.jpg?t=1678981332"
+price = 3999
+discount = 0
+release_date = "Feb 8, 2018"
+developers = ["Facepunch Studios"]
+tag = "Shooter"
+
+[1938090]
+steam_appid = 1938090
+name = "Call of Duty®: Modern Warfare® II"
+short_description = "Call of Duty®: Modern Warfare® II drops players into an unprecedented global conflict that features the return of the iconic Operators of Task Force 141."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1938090/header.jpg?t=1687571108"
+price = 6999
+discount = 0
+release_date = "Oct 27, 2022"
+developers = ["Infinity Ward", "Raven Software", "Beenox", "Treyarch", "High Moon Studios", "Sledgehammer Games", "Activision Shanghai", "Demonware", "Toys for Bob"]
+tag = "Shooter"
+
+[1172470]
+steam_appid = 1172470
+name = "Apex Legends™"
+short_description = "Apex Legends is the award-winning, free-to-play Hero Shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities, and experience strategic squad play and innovative gameplay in the next evolution of Hero Shooter and Battle Royale."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1172470/header.jpg?t=1689192181"
+price = 6999
+discount = 0
+release_date = "Nov 4, 2020"
+developers = ["Respawn Entertainment"]
+tag = "Shooter"
+
+[1085660]
+steam_appid = 1085660
+name = "Destiny 2"
+short_description = "Destiny 2 is an action MMO with a single evolving world that you and your friends can join anytime, anywhere, absolutely free."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1085660/header.jpg?t=1684966156"
+price = 6999
+discount = 0
+release_date = "Oct 1, 2019"
+developers = ["Bungie"]
+tag = "Shooter"
+
+[359550]
+steam_appid = 359550
+name = "Tom Clancy's Rainbow Six® Siege"
+short_description = "Tom Clancy's Rainbow Six® Siege is an elite, tactical team-based shooter where superior planning and execution triumph."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/359550/header.jpg?t=1685724234"
+price = 1999
+discount = 0
+release_date = "Dec 1, 2015"
+developers = ["Ubisoft Montreal"]
+tag = "Shooter"
+
+[1174180]
+steam_appid = 1174180
+name = "Red Dead Redemption 2"
+short_description = "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age. Also includes access to the shared living world of Red Dead Online."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg?t=1671485009"
+price = 5999
+discount = 0
+release_date = "Dec 5, 2019"
+developers = ["Rockstar Games"]
+tag = "Shooter"
+
+[271590]
+steam_appid = 271590
+name = "Grand Theft Auto V"
+short_description = "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg?t=1678296348"
+price = 5999
+discount = 0
+release_date = "Apr 13, 2015"
+developers = ["Rockstar North"]
+tag = "Shooter"
+
+[435150]
+steam_appid = 435150
+name = "Divinity: Original Sin 2 - Definitive Edition"
+short_description = "The critically acclaimed RPG that raised the bar, from the creators of Baldur's Gate 3. Gather your party. Master deep, tactical combat. Venture as a party of up to four - but know that only one of you will have the chance to become a God."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/435150/header.jpg?t=1668591196"
+price = 4499
+discount = 0
+release_date = "Sep 14, 2017"
+developers = ["Larian Studios"]
+tag = "Tactical RPG"
+
+[368260]
+steam_appid = 368260
+name = "Marvel's Midnight Suns"
+short_description = "FIGHT AND STRATEGIZE LIKE A SUPER HERO IN THE DARKER CORNERS OF THE MARVEL UNIVERSE. Play as The Hunter, a legendary demon slayer who must lead a team of Super Heroes and supernatural warriors facing apocalyptic threats."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/368260/header.jpg?t=1683821412"
+price = 5999
+discount = 0
+release_date = "Dec 1, 2022"
+developers = ["Firaxis Games"]
+tag = "Tactical RPG"
+
+[1669000]
+steam_appid = 1669000
+name = "Age of Wonders 4"
+short_description = "Rule a fantasy realm of your own design! Explore new magical realms in Age of Wonders’ signature blend of 4X strategy and turn-based tactical combat. Control a faction that grows and changes as you expand your empire with each turn!"
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1669000/header.jpg?t=1687438744"
+price = 4999
+discount = 0
+release_date = "May 2, 2023"
+developers = ["Triumph Studios"]
+tag = "Tactical RPG"
+
+[780290]
+steam_appid = 780290
+name = "Gloomhaven"
+short_description = "Whether you are drawn to Gloomhaven by the call of adventure or by an avid desire for gold glimmering in the dark, your fate will surely be the same. Gloomhaven, the digital adaptation of the acclaimed board game, mixes Tactical-RPG and dungeon-crawling."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/780290/header.jpg?t=1685966789"
+price = 3499
+discount = 0
+release_date = "Oct 20, 2021"
+developers = ["Flaming Fowl Studios"]
+tag = "Tactical RPG"
+
+[1527950]
+steam_appid = 1527950
+name = "Wartales"
+short_description = "Wartales is an open world RPG in which you lead a group of mercenaries in their search for wealth across a massive medieval universe. Explore the world, recruit companions, collect bounties and unravel the secrets of the tombs of the ancients!"
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1527950/header.jpg?t=1686821006"
+price = 3499
+discount = 0
+release_date = "Apr 12, 2023"
+developers = ["Shiro Games"]
+tag = "Tactical RPG"
+
+[1451090]
+steam_appid = 1451090
+name = "Tactics Ogre: Reborn"
+short_description = "Tactics Ogre, crown jewel of the tactical role-playing genre, is reborn! Based on the 2010 release, the game features improved graphics and sound, as well as updated game design, bringing to life a new Tactics Ogre that remains true to its roots."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1451090/header.jpg?t=1680169651"
+price = 4999
+discount = 0
+release_date = "Nov 11, 2022"
+developers = ["Square Enix"]
+tag = "Tactical RPG"
+
+[1897050]
+steam_appid = 1897050
+name = "VARIOUS DAYLIFE"
+short_description = "An all-new RPG from SQUARE ENIX, created by the development team that worked on OCTOPATH TRAVELER and BRAVELY DEFAULT."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1897050/header.jpg?t=1687978213"
+price = 2899
+discount = 0
+release_date = "Sep 13, 2022"
+developers = ["Square Enix", "DOKIDOKI GROOVE WORKS"]
+tag = "Tactical RPG"
+
+[763890]
+steam_appid = 763890
+name = "Wildermyth"
+short_description = "Wildermyth follows heroes over their whole careers, from their pitchfork days to their powerful primes, and on into old age and memory. It’s a party-based procedural storytelling RPG where tactical combat and story decisions will alter your world and reshape your cast of characters."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/763890/header.jpg?t=1688746145"
+price = 2499
+discount = 0
+release_date = "Jun 15, 2021"
+developers = ["Worldwalker Games LLC"]
+tag = "Tactical RPG"
+
+[1135300]
+steam_appid = 1135300
+name = "King's Bounty II"
+short_description = "Legend returns! King’s Bounty II is the long-awaited sequel to the legendary King’s Bounty video games franchise, one of the most iconic representatives of the turn-based RPG genre."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1135300/header.jpg?t=1669389752"
+price = 799
+discount = 80
+release_date = "Aug 24, 2021"
+developers = ["Fulqrum Games"]
+tag = "Tactical RPG"
+
+[2100431]
+steam_appid = 2100431
+name = "Solasta: Crown of the Magister - Palace of Ice"
+short_description = "Although the heroes of Caer Cyflen managed to prevent the Soraks' attempt at reopening the Rift to unleash their foul god upon Solasta, the threat is far from over. Kingdom of Gallivan has suddenly declared war on their neighbours, and the Snow Alliance is calling for your help!"
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/2100431/header.jpg?t=1685022191"
+price = 1499
+discount = 0
+release_date = "May 25, 2023"
+developers = ["Tactical Adventures"]
+tag = "Tactical RPG"
+
+[1086940]
+steam_appid = 1086940
+name = "Baldur's Gate 3"
+short_description = "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons &amp; Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg?t=1689333742"
+price = 5999
+discount = 0
+release_date = "Oct 6, 2020"
+developers = ["Larian Studios"]
+tag = "RPG"
+
+[1599340]
+steam_appid = 1599340
+name = "Lost Ark"
+short_description = "Embark on an odyssey for the Lost Ark in a vast, vibrant world: explore new lands, seek out lost treasures, and test yourself in thrilling action combat in this action-packed free-to-play RPG."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1599340/header.jpg?t=1688668215"
+price = 5999
+discount = 0
+release_date = "Feb 11, 2022"
+developers = ["Smilegate RPG"]
+tag = "RPG"
+
+[1245620]
+steam_appid = 1245620
+name = "ELDEN RING"
+short_description = "THE NEW FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg?t=1683618443"
+price = 5999
+discount = 0
+release_date = "Feb 24, 2022"
+developers = ["FromSoftware Inc."]
+tag = "RPG"
+
+[582660]
+steam_appid = 582660
+name = "Black Desert"
+short_description = "Played by over 20 million Adventurers - Black Desert Online is an open-world, action MMORPG. Experience intense, action-packed combat, battle massive world bosses, fight alongside friends to siege and conquer castles, and train in professions such as fishing, trading, crafting, cooking, and more!"
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/582660/header_alt_assets_22.jpg?t=1688593123"
+price = 999
+discount = 0
+release_date = "May 24, 2017"
+developers = ["Pearl Abyss"]
+tag = "RPG"
+
+[1091500]
+steam_appid = 1091500
+name = "Cyberpunk 2077"
+short_description = "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1091500/header.jpg?t=1688382273"
+price = 5999
+discount = 0
+release_date = "Dec 9, 2020"
+developers = ["CD PROJEKT RED"]
+tag = "RPG"
+
+[990080]
+steam_appid = 990080
+name = "Hogwarts Legacy"
+short_description = "Hogwarts Legacy is an immersive, open-world action RPG. Now you can take control of the action and be at the center of your own adventure in the wizarding world."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/990080/header.jpg?t=1680647016"
+price = 5999
+discount = 0
+release_date = "Feb 10, 2023"
+developers = ["Avalanche Software"]
+tag = "RPG"
+
+[39210]
+steam_appid = 39210
+name = "FINAL FANTASY XIV Online"
+short_description = "Take part in an epic and ever-changing FINAL FANTASY as you adventure and explore with friends from around the world."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/39210/header.jpg?t=1684850999"
+price = 1999
+discount = 0
+release_date = "Feb 18, 2014"
+developers = ["Square Enix"]
+tag = "RPG"
+
+[230410]
+steam_appid = 230410
+name = "Warframe"
+short_description = "Awaken as an unstoppable warrior and battle alongside your friends in this story-driven free-to-play online action game"
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/230410/header.jpg?t=1688135986"
+price = 1999
+discount = 0
+release_date = "Mar 25, 2013"
+developers = ["Digital Extremes"]
+tag = "RPG"
+
+[306130]
+steam_appid = 306130
+name = "The Elder Scrolls® Online"
+short_description = "Join over 22 million players in the award-winning online multiplayer RPG and experience limitless adventure in a persistent Elder Scrolls world. Battle, craft, steal, or explore, and combine different types of equipment and abilities to create your own style of play. No game subscription required."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/306130/header.jpg?t=1689258769"
+price = 1999
+discount = 0
+release_date = "May 22, 2017"
+developers = ["ZeniMax Online Studios"]
+tag = "RPG"
+
+[1222670]
+steam_appid = 1222670
+name = "The Sims™ 4"
+short_description = "Play with life and discover the possibilities. Unleash your imagination and create a world of Sims that’s wholly unique. Explore and customize every detail from Sims to homes–and much more."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1222670/header.jpg?t=1689284884"
+price = 1999
+discount = 0
+release_date = "Jun 18, 2020"
+developers = ["Maxis"]
+tag = "Casual"
+
+[1971650]
+steam_appid = 1971650
+name = "OCTOPATH TRAVELER II"
+short_description = "This game is a brand-new entry in the OCTOPATH TRAVELER series, the first installment of which was initially released in 2018 and sold over 3 million copies worldwide."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1971650/header.jpg?t=1688650936"
+price = 4499
+discount = 25
+release_date = "Feb 24, 2023"
+developers = ["Square Enix", "ACQUIRE Corp."]
+tag = "Casual"
+
+[291550]
+steam_appid = 291550
+name = "Brawlhalla"
+short_description = "An epic platform fighter for up to 8 players online or local. Try casual free-for-alls, ranked matches, or invite friends to a private room. And it's free! Play cross-platform with millions of players on PlayStation, Xbox, Nintendo Switch, iOS, Android &amp; Steam! Frequent updates. Over fifty Legends."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/291550/header.jpg?t=1689168564"
+price = 1499
+discount = 0
+release_date = "Oct 17, 2017"
+developers = ["Blue Mammoth Games"]
+tag = "Casual"
+
+[255710]
+steam_appid = 255710
+name = "Cities: Skylines"
+short_description = "Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/255710/header.jpg?t=1683626322"
+price = 2999
+discount = 0
+release_date = "Mar 10, 2015"
+developers = ["Colossal Order Ltd."]
+tag = "Casual"
+
+[1290000]
+steam_appid = 1290000
+name = "PowerWash Simulator"
+short_description = "Release the Pressure with PowerWash Simulator! Wash away your worries with the soothing sounds of high-pressure water. Fire up your power washer and blast away every speck of dirt and grime you can find, all with the simple satisfaction of power-washing to a sparkling finish."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1290000/header.jpg?t=1688055663"
+price = 2499
+discount = 0
+release_date = "Jul 14, 2022"
+developers = ["FuturLab"]
+tag = "Casual"
+
+[1997040]
+steam_appid = 1997040
+name = "MARVEL SNAP"
+short_description = "Assemble your MARVEL dream team from a super roster of your favorite heroes and villains. MARVEL SNAP is fast-paced, adrenaline-pumping, strategic card battler that puts you in control of it all - make your move."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1997040/header.jpg?t=1688455920"
+price = 2499
+discount = 0
+release_date = "Oct 18, 2022"
+developers = ["Second Dinner Studios, Inc."]
+tag = "Casual"
+
+[2381590]
+steam_appid = 2381590
+name = "Only Up!"
+short_description = "Have you ever wanted to walk up to the clouds? Embark on an exciting journey in Only UP! Exploring a huge world full of secrets and mysteries, you have to get as high as possible, and the most interesting starts above the clouds..."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/2381590/header.jpg?t=1688987288"
+price = 999
+discount = 0
+release_date = "May 24, 2023"
+developers = ["SCKR Games"]
+tag = "Casual"
+
+[960090]
+steam_appid = 960090
+name = "Bloons TD 6"
+short_description = "The Bloons are back and better than ever! Get ready for a massive 3D tower defense game designed to give you hours and hours of the best strategy gaming available."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/960090/header.jpg?t=1688681768"
+price = 1399
+discount = 0
+release_date = "Dec 17, 2018"
+developers = ["Ninja Kiwi"]
+tag = "Casual"
+
+[1426210]
+steam_appid = 1426210
+name = "It Takes Two"
+short_description = "Embark on the craziest journey of your life in It Takes Two. Invite a friend to join for free with Friend’s Pass and work together across a huge variety of gleefully disruptive gameplay challenges. Winner of GAME OF THE YEAR at the Game Awards 2021."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1426210/header.jpg?t=1679951279"
+price = 1599
+discount = 60
+release_date = "Mar 25, 2021"
+developers = ["Hazelight"]
+tag = "Puzzle"
+
+[753640]
+steam_appid = 753640
+name = "Outer Wilds"
+short_description = "Named Game of the Year 2019 by Giant Bomb, Polygon, Eurogamer, and The Guardian, Outer Wilds is a critically-acclaimed and award-winning open world mystery about a solar system trapped in an endless time loop."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/753640/header.jpg?t=1687369978"
+price = 2499
+discount = 0
+release_date = "Jun 18, 2020"
+developers = ["Mobius Digital"]
+tag = "Puzzle"
+
+[1629520]
+steam_appid = 1629520
+name = "A Little to the Left"
+short_description = "A Little to the Left is a cozy puzzle game that has you sort, stack, and organize household items into pleasing arrangements while you keep an eye out for a mischievous cat with an inclination for chaos. Check out this playful and intuitive puzzler with 75+ satisfying messes to tidy."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1629520/header.jpg?t=1688735294"
+price = 1499
+discount = 0
+release_date = "Nov 8, 2022"
+developers = ["Max Inferno"]
+tag = "Puzzle"
+
+[1659420]
+steam_appid = 1659420
+name = "UNCHARTED™: Legacy of Thieves Collection"
+short_description = "Play as Nathan Drake and Chloe Frazer in their own standalone adventures as they confront their pasts and forge their own legacies. This game includes the critically acclaimed single-player stories from both UNCHARTED 4: A Thief’s End and UNCHARTED: The Lost Legacy."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1659420/header.jpg?t=1672777947"
+price = 4999
+discount = 0
+release_date = "Oct 19, 2022"
+developers = ["Naughty Dog LLC", "Iron Galaxy Studios"]
+tag = "Puzzle"
+
+[668580]
+steam_appid = 668580
+name = "Atomic Heart"
+short_description = "In a mad and sublime utopian world, take part in explosive encounters. Adapt your fighting style to each opponent, use your environment and upgrade your equipment to fulfill your mission. If you want to reach the truth, you'll have to pay in blood."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/668580/header.jpg?t=1684318955"
+price = 5999
+discount = 0
+release_date = "Feb 20, 2023"
+developers = ["Mundfish"]
+tag = "Puzzle"
+
+[698670]
+steam_appid = 698670
+name = "Scorn"
+short_description = "Scorn is an atmospheric first-person horror adventure game set in a nightmarish universe of odd forms and somber tapestry."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/698670/header.jpg?t=1682495808"
+price = 1599
+discount = 60
+release_date = "Oct 14, 2022"
+developers = ["Ebb Software"]
+tag = "Puzzle"
+
+[553420]
+steam_appid = 553420
+name = "TUNIC"
+short_description = "Explore a land filled with lost legends, ancient powers, and ferocious monsters in TUNIC, an isometric action game about a small fox on a big adventure."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/553420/header.jpg?t=1649107473"
+price = 2999
+discount = 0
+release_date = "Mar 16, 2022"
+developers = ["TUNIC Team"]
+tag = "Puzzle"
+
+[1262350]
+steam_appid = 1262350
+name = "SIGNALIS"
+short_description = "A classic survival horror experience set in a dystopian future where humanity has uncovered a dark secret. Unravel a cosmic mystery, escape terrifying creatures, and scavenge an off-world government facility as Elster, a technician Replika searching for her lost dreams."
+header_image = "https://cdn.akamai.steamstatic.com/steam/apps/1262350/header.jpg?t=1684085470"
+price = 1999
+discount = 0
+release_date = "Oct 27, 2022"
+developers = ["rose-engine"]
+tag = "Puzzle"

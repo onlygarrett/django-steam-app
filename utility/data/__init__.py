@@ -1,1 +1,1 @@
-from .data_entry import refresh_data, write_data
+from .data_entry import start_refresh_if_needed, write_data

@@ -1,0 +1,26 @@
+{% extends 'general/base.html' %}
+
+{% block title %}Wishlist{% endblock %}
+
+{% block content %}
+<div class="pb-6 grid grid-cols-4 gap-4 bg-gray-100">
+    <div class="col-span-3">
+        <div class="grid grid-cols-3 gap-3">
+            {% for game in current_list.game_list.all %}
+            <div>
+                <a href="{% url 'content:game_page' game.id %}">
+                    <div>
+                        <img src="{{ game.image.url }}" class="rounded-t-xl" style="width: -moz-available;">
+                    </div>
+
+                    <div class="p-6 bg-white rounded-b-xl">
+                        <h2 class="text-2xl">{{ game.name }}</h2>
+                        <p class="text-gray-500">Price: {{ game.price }}</p>
+                    </div>
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endblock %}

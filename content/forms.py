@@ -1,11 +1,11 @@
 from django import forms
 from .models import Games
-
+from .models import Developer
 
 class GameIntakeForm(forms.ModelForm):
     class Meta:
         model = Games
-        fields = ('genre', 'name', 'description', 'image', 'price', 'on_sale', 'developer', 'release_date')
+        fields = ('genre', 'name', 'description', 'image', 'price', 'on_sale', 'developers', 'release_date')
         widgets = {
             'genre': forms.Select(attrs={
                 'class': 'mx-3 gap-4 w-1/2 h-1/2 py-4 px-6 rounded-xl'
@@ -23,7 +23,7 @@ class GameIntakeForm(forms.ModelForm):
                 'class': 'mx-3 gap-4 w-1/2 h-1/2 py-4 px-6 rounded-xl'
             }),
             'on_sale': forms.CheckboxInput(),
-            'developer': forms.Select(attrs={
+            'developers': forms.Select(attrs={
                 'class': 'mx-3 gap-4 w-1/2 h-1/2 py-4 px-6 rounded-xl'
             }),
             'release_date': forms.widgets.DateInput(attrs={'type': 'date', 
@@ -34,7 +34,7 @@ class GameIntakeForm(forms.ModelForm):
 class GameEditForm(forms.ModelForm):
     class Meta:
         model = Games
-        fields = ('genre', 'name', 'description', 'image', 'price', 'on_sale', 'developer', 'release_date')
+        fields = ('genre', 'name', 'description', 'image', 'price', 'on_sale', 'developers', 'release_date')
         widgets = {
             'genre': forms.Select(attrs={
                 'class': 'mx-3 gap-4 w-1/2 h-1/2 py-4 px-6 rounded-xl'
@@ -52,7 +52,7 @@ class GameEditForm(forms.ModelForm):
                 'class': 'mx-3 gap-4 w-1/2 h-1/2 py-4 px-6 rounded-xl'
             }),
             'on_sale': forms.CheckboxInput(),
-            'developer': forms.Select(attrs={
+            'developers': forms.Select(attrs={
                 'class': 'mx-3 gap-4 w-1/2 h-1/2 py-4 px-6 rounded-xl'
             }),
             'release_date': forms.widgets.DateInput(attrs={'type': 'date', 

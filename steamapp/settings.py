@@ -1,3 +1,4 @@
+import os
 from pathlib import Path
 from string import Template
 
@@ -14,7 +15,7 @@ SECRET_KEY = 'django-insecure-p8&j$b)nsc+zav-&z26!#)%6v20dz@_!!0axi#vl_t&8w5p9&p
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 LOGIN_URL = '/login/'
 LOGIN_REDIRECT_URL = '/'
@@ -29,7 +30,7 @@ STEAM_APP_API_URL = Template('https://store.steampowered.com/api/appdetails?appi
 
 REQUIRED_DATA = ['tag', 'steam_appid', 'name', 'short_description',
                  'header_image', 'price_overview',
-                 'release_date', 'developer','on_sale']
+                 'release_date', 'developers','on_sale']
 # Application definition
 
 INSTALLED_APPS = [
@@ -43,7 +44,9 @@ INSTALLED_APPS = [
     'dashboard',
     'messaging',
     'content',
-    'utility'
+    'utility',
+    'rest_framework',
+    'wishlist'
 ]
 
 MIDDLEWARE = [
@@ -82,13 +85,21 @@ WSGI_APPLICATION = 'steamapp.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'steamsaleapp',
-        'USER': 'admin',
-        'PASSWORD': 'admin',
-        'HOST':'localhost',
-        'PORT':'3306',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': os.environ.get('POSTGRES_NAME'),
+        'USER': os.environ.get('POSTGRES_USER'),
+        'PASSWORD': os.environ.get('POSTGRES_PASSWORD'),
+        'HOST': 'db',
+        'PORT': 5432,
     }
+}
+
+REST_FRAMEWORK = {
+    # Use Django's standard `django.contrib.auth` permissions,
+    # or allow read-only access for unauthenticated users.
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
+    ]
 }
 
 
@@ -129,6 +140,10 @@ USE_TZ = True
 STATIC_URL = 'static/'
 MEDIA_URL = 'media/'
 MEDIA_ROOT = BASE_DIR / 'media'
+
+FIXTURE_DIRS = [
+    'fixtures/',
+]
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field

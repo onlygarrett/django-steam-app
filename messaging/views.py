@@ -9,12 +9,9 @@ from .models import MessageService
 @login_required
 def new_message_group(request, game_key):
     game = get_object_or_404(Games, pk=game_key)
-
-    if game.developer == request.user:
-        return redirect('user_dash:dash_home')
     
-    message_groups = MessageService.objects.filter(game=game).filter(members__in=[request.user.id])
-
+    message_groups = MessageService.objects.filter(game=game)
+    
     if message_groups:
         return redirect('messaging:message', pk=message_groups.first().id)
 
@@ -24,7 +21,6 @@ def new_message_group(request, game_key):
         if form.is_valid():
             message_group = MessageService.objects.create(game=game)
             message_group.members.add(request.user)
-            message_group.members.add(game.developer)
             message_group.save()
 
             message = form.save(commit=False)
